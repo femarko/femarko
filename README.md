@@ -1,6 +1,6 @@
 ### Привет!
-Меня зовут Марк Фенстер, я начинающий backend-разработчик на Python.
-Мои учебные проекты в Нетологии:
+Я Марк Фенстер, начинающий backend-разработчик на Python.
+### Мои учебные проекты в Нетологии:
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
