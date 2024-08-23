@@ -2,6 +2,7 @@
 Я Марк Фенстер, начинающий backend-разработчик на Python.
 ### Мои учебные проекты в Нетологии:
 - дипломный проект: [API-сервис на Django REST framework](https://github.com/femarko/Netology_diplom_async)
+- небольшое приложение на asyncaio
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
