@@ -5,7 +5,7 @@
 - email: *fenstermark7@gmail.com*
 ### Мои учебные проекты в Нетологии:
 - дипломный проект: [API-сервис online-магазина на Django REST framework](https://github.com/femarko/Netology_diplom_async)
-- небольшое приложение на asyncio: [асинхронное получение и запись данных в БД](https://github.com/femarko/Event_loop_Asyncio_HW)
+- асинхронное программирование: [приложение на asyncio, асинхронно получающее и записывающее данные в БД](https://github.com/femarko/Event_loop_Asyncio_HW)
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
