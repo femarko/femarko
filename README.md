@@ -1,7 +1,7 @@
 ### Привет!
 Я Марк Фенстер, начинающий backend-разработчик на Python.\
 ### Мои контакты:
-- telegram: *@Vpimf*
+- telegram: *[@Vpimf](@Vpimf)*
 - email: *fenstermark7@gmail.com*
 ### Мои учебные проекты в Нетологии:
 - дипломный проект: [API-сервис online-магазина на Django REST framework](https://github.com/femarko/Netology_diplom_async)
