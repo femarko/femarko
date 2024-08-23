@@ -1,5 +1,5 @@
 ### Привет!
-Я Марк Фенстер, начинающий backend-разработчик на Python.\
+Я Марк Фенстер, начинающий backend-разработчик на Python.
 ### Мои контакты:
 - telegram: *@Vpimf*
 - email: *fenstermark7@gmail.com*
