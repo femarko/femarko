@@ -4,8 +4,7 @@
 - **telegram**: *@Vpimf*
 ### Мой pet-проект:
 [REST API, структура которого позволяет легко вносить изменения](https://github.com/femarko/advert/tree/main)
-### Мои учебные проекты в Нетологии:
-- асинхронное программирование: [приложение на Asyncio, асинхронно получающее и записывающее данные в БД](https://github.com/femarko/Event_loop_Asyncio_HW)
+
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
