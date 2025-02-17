@@ -3,7 +3,7 @@
 ### Мои контакты:
 - **telegram**: *@Vpimf*
 ### Мой pet-проект:
-[REST API, структура которого позволяет легко вносить изменения](https://github.com/femarko/advert/tree/main)
+[REST API на Flask, структура которого позволяет легко вносить изменения](https://github.com/femarko/advert/tree/main)
 
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
