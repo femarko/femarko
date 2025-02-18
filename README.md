@@ -4,6 +4,8 @@
 - **telegram**: *@Vpimf*
 ### Мой pet-проект:
 [REST API на Flask, структура которого позволяет легко вносить изменения](https://github.com/femarko/advert/tree/main)
+### Мой дипломный проект в Нетологии:
+[REST API (backend) для магазина на Django REST framework](https://github.com/femarko/Netology_diplom_async)
 
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
