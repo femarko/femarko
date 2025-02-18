@@ -7,7 +7,7 @@
 ### Мой дипломный проект в Нетологии:
 [REST API (backend) для магазина на Django REST framework](https://github.com/femarko/Netology_diplom_async)
 ### Пример учебного проекта в Нетологии:
-[Асинхронное получение данных из стороннего API и их асинхронная заппись в БД](https://github.com/femarko/Event_loop_Asyncio_HW)
+[Асинхронное получение данных из стороннего API и их асинхронная запись в БД](https://github.com/femarko/Event_loop_Asyncio_HW)
 
 <!--
 **femarko/femarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
