@@ -1,6 +1,8 @@
 ### Привет!
 Я Марк Фенстер, backend-разработчик на Python.
 - **Telegram:** *@Vpimf*
+### Telegram-бот:
+[Этот бот умеет загружать данные из файла Excel в базу данных](https://github.com/femarko/Zuzublik)
 ### Мой pet-проект:
 [REST API на Flask, структура которого позволяет легко вносить изменения](https://github.com/femarko/advert/tree/main)
 ### Мой дипломный проект в Нетологии:
