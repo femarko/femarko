@@ -1,6 +1,8 @@
 ### Привет!
 Я Марк Фенстер, backend-разработчик на Python.
 - **Telegram:** *@Vpimf*
+### Приложение на FastAPI, взаимодействующее с блокчейн платформой Tron:
+[Еще в разработке. Будет переписано в асинхронном стиле и завернуто в Docker](https://github.com/femarko/Tron)
 ### Telegram-бот:
 [Этот бот умеет загружать данные из файла Excel в базу данных](https://github.com/femarko/Zuzublik)
 ### Мой pet-проект:
