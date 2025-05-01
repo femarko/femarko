@@ -1,8 +1,8 @@
 ### Привет!
 Я Марк Фенстер, backend-разработчик на Python.
 - **Telegram:** *@Vpimf*
-### Асинхронное FastAPI-приложение для сокращения URL:
-[DDD-архитектура и автоконфигурация dev / prod / test режимов](https://github.com/femarko/URL_short)
+### Асинхронное FastAPI-приложение для сокращения URL c DDD-архитектурой и автоконфигурацией dev / prod / test режимов:
+[url_shortener](https://github.com/femarko/URL_short)
 ### Приложение на FastAPI, взаимодействующее с блокчейн платформой Tron:
 [Еще в разработке. Будет переписано в асинхронном стиле и завернуто в Docker](https://github.com/femarko/Tron)
 ### Telegram-бот:
